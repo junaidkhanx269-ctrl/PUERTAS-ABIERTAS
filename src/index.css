@@ -1,0 +1,22 @@
+@import "tailwindcss";
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+  body {
+    font-family: 'Nunito', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    color: #2D2721;
+    background-color: #FFFDF9;
+  }
+  h1, h2, h3, h4, .font-heading {
+    font-family: 'Fredoka', 'Nunito', system-ui, sans-serif;
+  }
+}
+
+/* Cute subtle dotted background utility */
+.bg-dots-pattern {
+  background-image: radial-gradient(#F59E0B25 1.5px, transparent 1.5px);
+  background-size: 24px 24px;
+}
+

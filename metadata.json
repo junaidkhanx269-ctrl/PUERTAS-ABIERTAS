@@ -1,0 +1,6 @@
+{
+  "name": "Puertas Abiertas Family Child Care",
+  "description": "Warm, 5-star bilingual (English/Spanish) family daycare at 90 Archadale Rd, Roslindale, MA. Donde los niños crecen en un ambiente de amor y aprendizaje.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
